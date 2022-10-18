@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\Kliker\Kliker\Kliker\obj\Debug\net6.0-windows\Kliker.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Kliker\Kliker\Kliker\obj\Debug\net6.0-windows\Kliker.Form1.resources
+C:\Users\User\Desktop\Kliker\Kliker\Kliker\obj\Debug\net6.0-windows\Kliker.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Kliker\Kliker\Kliker\obj\Debug\net6.0-windows\Kliker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Kliker\Kliker\Kliker\obj\Debug\net6.0-windows\Kliker.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Kliker\Kliker\Kliker\obj\Debug\net6.0-windows\Kliker.AssemblyInfo.cs
+C:\Users\User\Desktop\Kliker\Kliker\Kliker\obj\Debug\net6.0-windows\Kliker.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Kliker\Kliker\Kliker\bin\Debug\net6.0-windows\Kliker.exe
+C:\Users\User\Desktop\Kliker\Kliker\Kliker\bin\Debug\net6.0-windows\Kliker.deps.json
+C:\Users\User\Desktop\Kliker\Kliker\Kliker\bin\Debug\net6.0-windows\Kliker.runtimeconfig.json
+C:\Users\User\Desktop\Kliker\Kliker\Kliker\bin\Debug\net6.0-windows\Kliker.dll
+C:\Users\User\Desktop\Kliker\Kliker\Kliker\bin\Debug\net6.0-windows\Kliker.pdb
+C:\Users\User\Desktop\Kliker\Kliker\Kliker\obj\Debug\net6.0-windows\Kliker.dll
+C:\Users\User\Desktop\Kliker\Kliker\Kliker\obj\Debug\net6.0-windows\refint\Kliker.dll
+C:\Users\User\Desktop\Kliker\Kliker\Kliker\obj\Debug\net6.0-windows\Kliker.pdb
+C:\Users\User\Desktop\Kliker\Kliker\Kliker\obj\Debug\net6.0-windows\Kliker.genruntimeconfig.cache
+C:\Users\User\Desktop\Kliker\Kliker\Kliker\obj\Debug\net6.0-windows\ref\Kliker.dll
